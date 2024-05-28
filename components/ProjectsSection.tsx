@@ -28,9 +28,16 @@ const projects = [
   {
     name: "FAT-32 Manipulator",
     description:
-      "A program to access and retrieve files from FAT-32 drives written in C, demonstrating strong file handling skills and system programming expertise.",
+      "A program to access and retrieve files from FAT-32 drives written in C, demonstrating strong file handling skills and system programming expertise. Designed to be visually appealing, highly performant, and responsive. Each component and section has been crafted with meticulous attention to detail, providing a seamless and engaging user experience across all devices.",
     image: "/fat-fs.jpeg",
     github: "https://github.com/muminishmam/FAT-32-Manipulator"
+  },
+  {
+    name: "Personal Portfolio",
+    description:
+      "A showcase of my skills and experiences, brought to life through the power of Next.js and Tailwind CSS. Meticulously crafted to reflect my expertise in building scalable, efficient, and user-friendly web applications.",
+    image: "/portfolio.png",
+    github: "https://github.com/muminishmam/Personal-Portfolio"
   },
 ]
 

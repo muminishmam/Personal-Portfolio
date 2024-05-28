@@ -27,7 +27,7 @@ const HeroSection = () => {
             Committed to Excellence and Innovation.
           </p>
           <Link
-            to="about"
+            to="technical-skills"
             className="mr-4 text-neutral-100 font-semibold px-6 py-3 bg-orange-600 rounded shadow hover:bg-gray-700 cursor-pointer"
             activeClass="active"
             spy={true}
@@ -40,7 +40,7 @@ const HeroSection = () => {
           <a
             href="/Resume_Ishmam.pdf"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noreferrer"
             className="text-neutral-100 font-semibold px-6 py-3 bg-orange-600 rounded shadow hover:bg-gray-700 cursor-pointer"
           >
             Résumé

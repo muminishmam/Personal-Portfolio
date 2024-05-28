@@ -7,7 +7,7 @@ const skills = [
   { skill: "HTML" },
   { skill: "JavaScript" },
   { skill: "CSS" },
-  { skill: "Python" },
+  { skill: "Python"},
   { skill: "React" },
   { skill: "Next JS" },
   { skill: "Tailwind CSS" },
@@ -65,7 +65,7 @@ const AboutSection = () => {
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
-            <h1 className="text-2xl font-bold mb-6">Technical Skills</h1>
+            <h1 id ="technical-skills" className="text-2xl font-bold mb-6">Technical Skills</h1>
             <div className="animate-slideUpCubiBezier animation-delay-2 flex flex-wrap flex-row justify-center z-10 md:justify-start">
               {skills.map((item, idx) => {
                 return (
