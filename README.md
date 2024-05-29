@@ -1,3 +1,7 @@
+## Personal Portfolio
+
+A showcase of my skills and experiences, brought to life through the power of Next.js and Tailwind CSS. Meticulously crafted to reflect my expertise in building scalable, efficient, and user-friendly web applications.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
