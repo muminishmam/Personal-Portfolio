@@ -38,7 +38,7 @@ const HeroSection = () => {
             Technical Skills
           </Link>
           <a
-            href="/Resume_Ishmam.pdf"
+            href="/Resume_Ishmam_2024.pdf"
             target="_blank"
             rel="noreferrer"
             className="text-neutral-100 font-semibold px-6 py-3 bg-orange-600 rounded shadow hover:bg-gray-700 cursor-pointer"
